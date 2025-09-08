@@ -60,10 +60,6 @@
 # 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=premmsharma122&theme=onedark&row=1&column=7)
 
----
-
-# 🐍 Contribution Snake
-![snake gif](https://github.com/premmsharma122/premmsharma122/blob/output/snake.svg)
 
 ---
 
