@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Premm, BTech CSE 27'' Student.<br>Pushing my explorer to GITHUB..
+Hii My name is Prem Sharma,
+Btech cse student passionate about Programming and Devlopment. Skilled in Data Structre & Algorithm. Doing Coding and participated in contests to enhancing coding skills.
+Currently Working with LLMs and Neural Network and exploring machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-sharma-0a4b62291) 
