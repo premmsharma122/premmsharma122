@@ -58,7 +58,8 @@
 ---
 
 # 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=premmsharma122&theme=onedark&row=1&column=7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=premmsharma122&theme=onedark)
+
 
 
 ---
