@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-✨ B.Tech CSE student passionate about **Programming & Development**  
+✨ B.Tech CSE student passionate about **Competative Programming & Full Stack Development**  
 ✨ Skilled in **Data Structures & Algorithms** (DSA)  
-✨ Exploring **Machine Learning, Neural Networks & LLMs**  
+✨ Exploring **Machine Learning & Scalable web Technologies**  
 ✨ Active in **coding contests** to enhance problem-solving skills  
 
 ---
