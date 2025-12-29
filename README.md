@@ -57,7 +57,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 ![GitHub Contribution Snake](https://github.com/premmsharma122/premmsharma122/blob/output/github-contribution-grid-snake.svg)
 
 ---
