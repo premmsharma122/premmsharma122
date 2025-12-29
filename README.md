@@ -57,13 +57,8 @@
 
 ---
 
-# 🏆 Achievements
-![GitHub Contributions](https://ghchart.rshah.org/409ba5/premmsharma122)
-
-
-
-
-
+## 🐍 Contribution Snake
+![GitHub Contribution Snake](https://github.com/premmsharma122/premmsharma122/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
