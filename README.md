@@ -58,7 +58,8 @@
 ---
 
 # 🏆 Achievements
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premmsharma122&show_icons=true&theme=onedark)
+![3D Contribution](https://github-profile-3d-contrib.vercel.app/api?username=premmsharma122&theme=dark)
+
 
 
 
