@@ -58,7 +58,8 @@
 ---
 
 # 🏆 Achievements
-![3D Contribution](https://github-profile-3d-contrib.vercel.app/api?username=premmsharma122&theme=dark)
+![GitHub Contributions](https://ghchart.rshah.org/409ba5/premmsharma122)
+
 
 
 
