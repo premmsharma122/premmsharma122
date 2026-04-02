@@ -54,7 +54,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=premmsharma122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=premmsharma122&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premmsharma122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=premmsharma122&hide_total_contributions=true)](https://git.io/streak-stats)
 ---
 
 ## Contribution
