@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me -
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&width=500&lines=Hi+👋+I'm+Prem+Sharma;B.Tech+CSE+Student;Passionate+about+Coding+%26+Development;Exploring+Machine+Learning+%26+LLMs)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
