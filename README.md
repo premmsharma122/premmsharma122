@@ -50,9 +50,6 @@
 
 ---
 
-# 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=premmsharma122&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)<br/>
----
 
 ## Contribution
 ![GitHub Contribution Snake](https://github.com/premmsharma122/premmsharma122/blob/output/github-contribution-grid-snake.svg)
